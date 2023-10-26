@@ -1,0 +1,41 @@
+/* bievenida */
+.inicio {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo img {
+    max-width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #33a02c; /* Color verde (puedes cambiarlo) */
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  /*ng for imagenes */
+.img2{
+    width:300px;
+}
+.product {
+    flex: 1;
+    background-color: beige;
+    padding: 20px;
+}
+.product-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+p{
+    align-items:center;
+    justify-content: center;
+}
+h2{
+    align-items: center;
+    justify-content: center;
+}

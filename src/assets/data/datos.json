@@ -1,0 +1,86 @@
+{
+  "verduras":[
+    {"Nombre":"Acelga",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "500",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/acelga.jpg" },
+    
+    {"Nombre":"Ajis",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "600",
+     "Kilo": "Kilo",
+    "Imagen": "../assets/img/ajis.jpg" },
+
+    {"Nombre": "Cebolla de verdeo",
+      "Descripcion": "Natural y Fresca",
+      "Precio": "200",
+      "Unidad":"maso",
+      "Imagen":"assets/img/Cebolla-verdeo.jpg"
+    },
+
+    {
+      "Nombre":"Cebolla",
+      "Descripcion": "Natural y Fresca",
+      "Precio": "350",
+      "Kilo": "Kilo",
+      "Imagen": "../assets/img/cebolla.jpg" 
+    },
+
+    {"Nombre":"Lechuga Mantecosa",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "400",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/lechuga-mantecosa.jpg" },
+
+    {"Nombre":"Lechuga Rizada",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "100",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/lechuga-rizada.jpg" },
+
+    {"Nombre":"Morrón",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "800",
+     "Kilo": "Kilo",
+    "Imagen": "../assets/img/morron.jpg" },
+
+    {"Nombre":"Oregano",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "230",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/oregano.jpg" },
+
+    {"Nombre":"Perejil",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "200",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/perejil.jpg" },
+
+    {"Nombre":"Remolacha",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "450",
+     "Kilo": "Kilo",
+    "Imagen": "../assets/img/remolacha.jpg" },
+
+    {"Nombre":"Repollo",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "500",
+     "Unidad": "maso",
+    "Imagen": "../assets/img/repollo.jpg" },
+
+    {"Nombre":"Tomate",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "550",
+     "Kilo": "Kilo",
+    "Imagen": "../assets/img/tomate.jpg" },
+
+    {"Nombre":"Zanahoría",
+     "Descripcion": "Natural y Fresca",
+     "Precio": "180",
+     "Kilo": "Kilo",
+     "Imagen": "../assets/img/zanahoria.jpg" }
+  
+  ]
+
+}
